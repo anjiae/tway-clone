@@ -1,2 +1,3 @@
 # tway clone
- clone coding for portfolio
+First portfolio project that clone coding of tway airline company. 
+This site made for only personal portfolio.
